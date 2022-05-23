@@ -5,7 +5,7 @@ Analyst : Iyantom Ogari Juma.
 
 
 
-## Description
+## Project Description
 
 Microsoft had announced they wanted to create a movie studio, but had no knowledge of the movie industry.This is where we come in our objectives wer to collect or use available data, clean it and make an analysis from the diffrent sources of our data, and provide a recommendation to Microsoft that will draw insights for success in the movie industry.
 
